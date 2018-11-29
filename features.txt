@@ -3,3 +3,5 @@ This is the feature file
 Added a new feature Y
 
 Added feature Z by master.
+
+Added feature A by feature.
